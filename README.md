@@ -1,0 +1,2 @@
+# Mika
+Educational project
